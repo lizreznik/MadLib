@@ -33,8 +33,11 @@ footer {
     color: red;
     text-decoration: underline overline dotted red; 
 }
-p { 
+p{ 
     color: #006f57; 
+}
+.lead { 
+    color: white; 
 }
 
 /* Add more styles based on your creativity and design preferences */
