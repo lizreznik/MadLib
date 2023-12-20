@@ -32,9 +32,15 @@ footer {
 .red{
     color: red;
     text-decoration: underline overline dotted red; 
+    text-transform: uppercase; 
+}
+.red:hover{ 
+    scale: 1.3; 
+    transition: 2s; 
 }
 p{ 
     color: #006f57; 
+    font-family: 'Alegreya', serif;
 }
 .lead { 
     color: white; 
